@@ -79,10 +79,4 @@ This is a simple French-to-English translator iOS mobile application powered by 
 - **Dockerization:** Dockerize the application for easier deployment and scalability.
 - **Authentication:** Add user authentication and authorization to secure the API endpoints.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 
